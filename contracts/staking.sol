@@ -1,5 +1,5 @@
 pragma solidity ^0.8;
-
+//stakingRewards
 contract StakingRewards {
     IERC20 public rewardsToken;
     IERC20 public stakingToken;
